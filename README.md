@@ -1,8 +1,8 @@
 <h1 align="center">Application Search Health Map</h1>
 
 <h1 align="center">
-    <img alt="Github logo" width="60px" height="50px" src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/Gif/github.png">
-    <img alt="React logo" width="50px" height="50px" src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/Gif/expo.png" />
+    <img alt="Github logo" width="60px" height="50px" src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/assets/github.png">
+    <img alt="React logo" width="50px" height="50px" src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/assets/expo.png" />
     <img alt="React logo" width="70px" height="50px" src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/assets/react.png" />
     <br>
     React Native Health Map Expo
@@ -19,7 +19,7 @@
 - Add/Remove to localStorage using AsynStorage
 - List followers/repositories from user searched
 
-<h1 align="center"><img src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/Gif/GIF.gif" /></h1>
+<h1 align="center"><img src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/assets/GIF.gif" /></h1>
 
 ## :rocket: Technologies
 
