@@ -15,9 +15,8 @@
 </p>
 
 ## :pencil: functionalities
-- Search user GitHub
-- Add/Remove to localStorage using AsynStorage
-- List followers/repositories from user searched
+- List on map location of hospitals, health posts, samus
+- Shows informaitons from hospital, health post or samu according to what you selected
 
 <h1 align="center"><img src="https://github.com/luizpaulogroup/react-native-health-map/blob/master/src/assets/GIF.gif" /></h1>
 
